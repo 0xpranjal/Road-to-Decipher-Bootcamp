@@ -1,0 +1,113 @@
+{
+  "hints": {
+    "read_price": {
+      "read_only": true
+    },
+    "read_rsvp": {
+      "read_only": true
+    }
+  },
+  "source": {
+    "approval": "I3ByYWdtYSB2ZXJzaW9uIDcKaW50Y2Jsb2NrIDEgMCAxMDAwIDEwMDAwMApieXRlY2Jsb2NrIDB4NzI3Mzc2NzAgMHg3MDcyNjk2MzY1IDB4MTUxZjdjNzUgMHg2MzY4NjU2MzZiNjU2NDVmNjk2ZQp0eG4gTnVtQXBwQXJncwppbnRjXzEgLy8gMAo9PQpibnogbWFpbl9sMTYKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHg4ZmUyNWUwNSAvLyAiY2hlY2tfaW4oKXZvaWQiCj09CmJueiBtYWluX2wxNQp0eG5hIEFwcGxpY2F0aW9uQXJncyAwCnB1c2hieXRlcyAweDI0MGQyZjY3IC8vICJjcmVhdGUodWludDY0KXZvaWQiCj09CmJueiBtYWluX2wxNAp0eG5hIEFwcGxpY2F0aW9uQXJncyAwCnB1c2hieXRlcyAweGU5MjJiZTk1IC8vICJkb19yc3ZwKHBheSl2b2lkIgo9PQpibnogbWFpbl9sMTMKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHg4YTIzZWUyMSAvLyAicmVhZF9wcmljZSgpdWludDY0Igo9PQpibnogbWFpbl9sMTIKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHhlZjk3NzI1NSAvLyAicmVhZF9yc3ZwKCl1aW50NjQiCj09CmJueiBtYWluX2wxMQp0eG5hIEFwcGxpY2F0aW9uQXJncyAwCnB1c2hieXRlcyAweDQxNzBjNGM3IC8vICJ3aXRoZHJhd19leHRlcm5hbCgpdm9pZCIKPT0KYm56IG1haW5fbDEwCnR4bmEgQXBwbGljYXRpb25BcmdzIDAKcHVzaGJ5dGVzIDB4ODg1YWEyNmEgLy8gIndpdGhkcmF3X2Z1bmRzKCl2b2lkIgo9PQpibnogbWFpbl9sOQplcnIKbWFpbl9sOToKdHhuIE9uQ29tcGxldGlvbgppbnRjXzEgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzEgLy8gMAohPQomJgphc3NlcnQKY2FsbHN1YiB3aXRoZHJhd2Z1bmRzXzEyCmludGNfMCAvLyAxCnJldHVybgptYWluX2wxMDoKdHhuIE9uQ29tcGxldGlvbgppbnRjXzEgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzEgLy8gMAohPQomJgphc3NlcnQKY2FsbHN1YiB3aXRoZHJhd2V4dGVybmFsXzExCmludGNfMCAvLyAxCnJldHVybgptYWluX2wxMToKdHhuIE9uQ29tcGxldGlvbgppbnRjXzEgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzEgLy8gMAohPQomJgphc3NlcnQKY2FsbHN1YiByZWFkcnN2cF8xMApzdG9yZSAyCmJ5dGVjXzIgLy8gMHgxNTFmN2M3NQpsb2FkIDIKaXRvYgpjb25jYXQKbG9nCmludGNfMCAvLyAxCnJldHVybgptYWluX2wxMjoKdHhuIE9uQ29tcGxldGlvbgppbnRjXzEgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzEgLy8gMAohPQomJgphc3NlcnQKY2FsbHN1YiByZWFkcHJpY2VfOQpzdG9yZSAxCmJ5dGVjXzIgLy8gMHgxNTFmN2M3NQpsb2FkIDEKaXRvYgpjb25jYXQKbG9nCmludGNfMCAvLyAxCnJldHVybgptYWluX2wxMzoKdHhuIE9uQ29tcGxldGlvbgppbnRjXzAgLy8gT3B0SW4KPT0KdHhuIEFwcGxpY2F0aW9uSUQKaW50Y18xIC8vIDAKIT0KJiYKYXNzZXJ0CnR4biBHcm91cEluZGV4CmludGNfMCAvLyAxCi0Kc3RvcmUgMApsb2FkIDAKZ3R4bnMgVHlwZUVudW0KaW50Y18wIC8vIHBheQo9PQphc3NlcnQKbG9hZCAwCmNhbGxzdWIgZG9yc3ZwXzgKaW50Y18wIC8vIDEKcmV0dXJuCm1haW5fbDE0Ogp0eG4gT25Db21wbGV0aW9uCmludGNfMSAvLyBOb09wCj09CnR4biBBcHBsaWNhdGlvbklECmludGNfMSAvLyAwCj09CiYmCmFzc2VydAp0eG5hIEFwcGxpY2F0aW9uQXJncyAxCmJ0b2kKY2FsbHN1YiBjcmVhdGVfNwppbnRjXzAgLy8gMQpyZXR1cm4KbWFpbl9sMTU6CnR4biBPbkNvbXBsZXRpb24KaW50Y18xIC8vIE5vT3AKPT0KdHhuIEFwcGxpY2F0aW9uSUQKaW50Y18xIC8vIDAKIT0KJiYKYXNzZXJ0CmNhbGxzdWIgY2hlY2tpbl82CmludGNfMCAvLyAxCnJldHVybgptYWluX2wxNjoKdHhuIE9uQ29tcGxldGlvbgpwdXNoaW50IDIgLy8gQ2xvc2VPdXQKPT0KYm56IG1haW5fbDIwCnR4biBPbkNvbXBsZXRpb24KcHVzaGludCA1IC8vIERlbGV0ZUFwcGxpY2F0aW9uCj09CmJueiBtYWluX2wxOQplcnIKbWFpbl9sMTk6CnR4biBBcHBsaWNhdGlvbklECmludGNfMSAvLyAwCiE9CmFzc2VydApjYWxsc3ViIGRlbGV0ZV8zCmludGNfMCAvLyAxCnJldHVybgptYWluX2wyMDoKdHhuIEFwcGxpY2F0aW9uSUQKaW50Y18xIC8vIDAKIT0KYXNzZXJ0CmNhbGxzdWIgcmVmdW5kXzQKaW50Y18wIC8vIDEKcmV0dXJuCgovLyBhdXRoX29wdGVkX2luCmF1dGhvcHRlZGluXzA6Cmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25JRAphcHBfb3B0ZWRfaW4KcmV0c3ViCgovLyBhdXRoX29ubHkKYXV0aG9ubHlfMToKZ2xvYmFsIENyZWF0b3JBZGRyZXNzCj09CnJldHN1YgoKLy8gYXV0aF9vbmx5CmF1dGhvbmx5XzI6Cmdsb2JhbCBDcmVhdG9yQWRkcmVzcwo9PQpyZXRzdWIKCi8vIGRlbGV0ZQpkZWxldGVfMzoKdHhuIFNlbmRlcgpjYWxsc3ViIGF1dGhvbmx5XzIKLy8gdW5hdXRob3JpemVkCmFzc2VydApnbG9iYWwgQ3VycmVudEFwcGxpY2F0aW9uQWRkcmVzcwpiYWxhbmNlCmludGNfMyAvLyAxMDAwMDAKaW50Y18yIC8vIDEwMDAKKwo+CmJ6IGRlbGV0ZV8zX2wyCmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25BZGRyZXNzCmJhbGFuY2UKaW50Y18zIC8vIDEwMDAwMAppbnRjXzIgLy8gMTAwMAorCj4KYXNzZXJ0Cml0eG5fYmVnaW4KaW50Y18wIC8vIHBheQppdHhuX2ZpZWxkIFR5cGVFbnVtCnR4biBTZW5kZXIKaXR4bl9maWVsZCBSZWNlaXZlcgpnbG9iYWwgQ3VycmVudEFwcGxpY2F0aW9uQWRkcmVzcwpiYWxhbmNlCmludGNfMyAvLyAxMDAwMDAKaW50Y18yIC8vIDEwMDAKKwotCml0eG5fZmllbGQgQW1vdW50Cml0eG5fc3VibWl0CmRlbGV0ZV8zX2wyOgpyZXRzdWIKCi8vIHJlZnVuZApyZWZ1bmRfNDoKaXR4bl9iZWdpbgppbnRjXzAgLy8gcGF5Cml0eG5fZmllbGQgVHlwZUVudW0KdHhuIFNlbmRlcgppdHhuX2ZpZWxkIFJlY2VpdmVyCmJ5dGVjXzEgLy8gInByaWNlIgphcHBfZ2xvYmFsX2dldAppbnRjXzIgLy8gMTAwMAotCml0eG5fZmllbGQgQW1vdW50Cml0eG5fc3VibWl0CmJ5dGVjXzAgLy8gInJzdnAiCmJ5dGVjXzAgLy8gInJzdnAiCmFwcF9nbG9iYWxfZ2V0CmludGNfMCAvLyAxCi0KYXBwX2dsb2JhbF9wdXQKcmV0c3ViCgovLyBhdXRoX29ubHkKYXV0aG9ubHlfNToKZ2xvYmFsIENyZWF0b3JBZGRyZXNzCj09CnJldHN1YgoKLy8gY2hlY2tfaW4KY2hlY2tpbl82Ogp0eG4gU2VuZGVyCmNhbGxzdWIgYXV0aG9wdGVkaW5fMAovLyB1bmF1dGhvcml6ZWQKYXNzZXJ0CnR4biBTZW5kZXIKYnl0ZWNfMyAvLyAiY2hlY2tlZF9pbiIKaW50Y18wIC8vIDEKYXBwX2xvY2FsX3B1dApyZXRzdWIKCi8vIGNyZWF0ZQpjcmVhdGVfNzoKc3RvcmUgMwpieXRlY18xIC8vICJwcmljZSIKcHVzaGludCAxMDAwMDAwIC8vIDEwMDAwMDAKYXBwX2dsb2JhbF9wdXQKYnl0ZWNfMCAvLyAicnN2cCIKaW50Y18xIC8vIDAKYXBwX2dsb2JhbF9wdXQKYnl0ZWNfMSAvLyAicHJpY2UiCmxvYWQgMwphcHBfZ2xvYmFsX3B1dApyZXRzdWIKCi8vIGRvX3JzdnAKZG9yc3ZwXzg6CnN0b3JlIDQKZ2xvYmFsIEdyb3VwU2l6ZQpwdXNoaW50IDIgLy8gMgo9PQphc3NlcnQKbG9hZCA0Cmd0eG5zIFJlY2VpdmVyCmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25BZGRyZXNzCj09CmFzc2VydApsb2FkIDQKZ3R4bnMgQW1vdW50CmJ5dGVjXzEgLy8gInByaWNlIgphcHBfZ2xvYmFsX2dldAo9PQphc3NlcnQKdHhuIFNlbmRlcgpieXRlY18zIC8vICJjaGVja2VkX2luIgppbnRjXzEgLy8gMAphcHBfbG9jYWxfcHV0CmJ5dGVjXzAgLy8gInJzdnAiCmJ5dGVjXzAgLy8gInJzdnAiCmFwcF9nbG9iYWxfZ2V0CmludGNfMCAvLyAxCisKYXBwX2dsb2JhbF9wdXQKcmV0c3ViCgovLyByZWFkX3ByaWNlCnJlYWRwcmljZV85OgpieXRlY18xIC8vICJwcmljZSIKYXBwX2dsb2JhbF9nZXQKcmV0c3ViCgovLyByZWFkX3JzdnAKcmVhZHJzdnBfMTA6CnR4biBTZW5kZXIKY2FsbHN1YiBhdXRob25seV81Ci8vIHVuYXV0aG9yaXplZAphc3NlcnQKYnl0ZWNfMCAvLyAicnN2cCIKYXBwX2dsb2JhbF9nZXQKcmV0c3ViCgovLyB3aXRoZHJhd19leHRlcm5hbAp3aXRoZHJhd2V4dGVybmFsXzExOgp0eG4gU2VuZGVyCmNhbGxzdWIgYXV0aG9ubHlfMQovLyB1bmF1dGhvcml6ZWQKYXNzZXJ0Cmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25BZGRyZXNzCmJhbGFuY2UKaW50Y18zIC8vIDEwMDAwMAppbnRjXzIgLy8gMTAwMAorCj4KYXNzZXJ0Cml0eG5fYmVnaW4KaW50Y18wIC8vIHBheQppdHhuX2ZpZWxkIFR5cGVFbnVtCnR4biBTZW5kZXIKaXR4bl9maWVsZCBSZWNlaXZlcgpnbG9iYWwgQ3VycmVudEFwcGxpY2F0aW9uQWRkcmVzcwpiYWxhbmNlCmludGNfMyAvLyAxMDAwMDAKaW50Y18yIC8vIDEwMDAKKwotCml0eG5fZmllbGQgQW1vdW50Cml0eG5fc3VibWl0CnJldHN1YgoKLy8gd2l0aGRyYXdfZnVuZHMKd2l0aGRyYXdmdW5kc18xMjoKZ2xvYmFsIEN1cnJlbnRBcHBsaWNhdGlvbkFkZHJlc3MKYmFsYW5jZQppbnRjXzMgLy8gMTAwMDAwCmludGNfMiAvLyAxMDAwCisKPgphc3NlcnQKaXR4bl9iZWdpbgppbnRjXzAgLy8gcGF5Cml0eG5fZmllbGQgVHlwZUVudW0KdHhuIFNlbmRlcgppdHhuX2ZpZWxkIFJlY2VpdmVyCmdsb2JhbCBDdXJyZW50QXBwbGljYXRpb25BZGRyZXNzCmJhbGFuY2UKaW50Y18zIC8vIDEwMDAwMAppbnRjXzIgLy8gMTAwMAorCi0KaXR4bl9maWVsZCBBbW91bnQKaXR4bl9zdWJtaXQKcmV0c3Vi",
+    "clear": "I3ByYWdtYSB2ZXJzaW9uIDcKaW50Y2Jsb2NrIDEKYnl0ZWNibG9jayAweDcyNzM3NjcwCnR4biBOdW1BcHBBcmdzCnB1c2hpbnQgMCAvLyAwCj09CmJueiBtYWluX2wyCmVycgptYWluX2wyOgpjYWxsc3ViIHJlZnVuZF8wCmludGNfMCAvLyAxCnJldHVybgoKLy8gcmVmdW5kCnJlZnVuZF8wOgppdHhuX2JlZ2luCmludGNfMCAvLyBwYXkKaXR4bl9maWVsZCBUeXBlRW51bQp0eG4gU2VuZGVyCml0eG5fZmllbGQgUmVjZWl2ZXIKcHVzaGJ5dGVzIDB4NzA3MjY5NjM2NSAvLyAicHJpY2UiCmFwcF9nbG9iYWxfZ2V0CnB1c2hpbnQgMTAwMCAvLyAxMDAwCi0KaXR4bl9maWVsZCBBbW91bnQKaXR4bl9zdWJtaXQKYnl0ZWNfMCAvLyAicnN2cCIKYnl0ZWNfMCAvLyAicnN2cCIKYXBwX2dsb2JhbF9nZXQKaW50Y18wIC8vIDEKLQphcHBfZ2xvYmFsX3B1dApyZXRzdWI="
+  },
+  "schema": {
+    "local": {
+      "declared": {
+        "checked_in": {
+          "type": "uint64",
+          "key": "checked_in",
+          "descr": "0 = not checked in, 1 = checked in"
+        }
+      },
+      "dynamic": {}
+    },
+    "global": {
+      "declared": {
+        "price": {
+          "type": "uint64",
+          "key": "price",
+          "descr": "The price of the event. Default price is 1 Algo"
+        },
+        "rsvp": {
+          "type": "uint64",
+          "key": "rsvp",
+          "descr": "Number of people who RSVPed to the event"
+        }
+      },
+      "dynamic": {}
+    }
+  },
+  "contract": {
+    "name": "EventRSVP",
+    "methods": [
+      {
+        "name": "check_in",
+        "args": [],
+        "returns": {
+          "type": "void"
+        },
+        "desc": "If the Sender RSVPed, check-in the Sender"
+      },
+      {
+        "name": "create",
+        "args": [
+          {
+            "type": "uint64",
+            "name": "event_price"
+          }
+        ],
+        "returns": {
+          "type": "void"
+        },
+        "desc": "Deploys the contract and initialze the app states"
+      },
+      {
+        "name": "do_rsvp",
+        "args": [
+          {
+            "type": "pay",
+            "name": "payment"
+          }
+        ],
+        "returns": {
+          "type": "void"
+        },
+        "desc": "Let txn sender rsvp to the event by opting into the contract"
+      },
+      {
+        "name": "read_price",
+        "args": [],
+        "returns": {
+          "type": "uint64"
+        },
+        "desc": "Read amount of RSVP to the event. Only callable by Creator."
+      },
+      {
+        "name": "read_rsvp",
+        "args": [],
+        "returns": {
+          "type": "uint64"
+        },
+        "desc": "Read amount of RSVP to the event. Only callable by Creator."
+      },
+      {
+        "name": "withdraw_external",
+        "args": [],
+        "returns": {
+          "type": "void"
+        },
+        "desc": "Let event creator to withdraw all funds in the contract"
+      },
+      {
+        "name": "withdraw_funds",
+        "args": [],
+        "returns": {
+          "type": "void"
+        },
+        "desc": "Helper method that withdraws funds in the RSVP contract"
+      }
+    ],
+    "networks": {}
+  }
+}
